@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+rapidfuzz
+ydata-profiling
+missingno

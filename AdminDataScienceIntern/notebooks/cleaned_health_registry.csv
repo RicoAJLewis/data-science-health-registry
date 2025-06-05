@@ -1,0 +1,570 @@
+Facility Id,Facility Name,Facility Type,Bed Capacity,Region,Licence Issue Date,Inspection Date,Gps Location,Remarks
+HF-000014,Harris,Community Health Center,0,St. Andrew,2023-05-10,2025-04-10,"-58.79981, 13.04914",Good
+HF-000020,Briggs-Thompson,Community Health Center,0,St. Joseph,2021-07-27,2024-09-11,"13.09459, -59.15007",Good
+HF-000023,Thompson-Villanueva Hospital,Hospital,10,St. John,2024-01-12,2025-08-02,"12.95905, -58.93751",Reinspection due
+HF-000030,Mueller LLC Hospital.,Polyclinic,103,St. George,2016-06-19,2019-04-13,"-58.83694, 12.79005",Needs upgrade
+HF-000034,Rivera-Shepard Medical Center,Polyclinic,93,St. Michael,2018-11-13,2021-01-23,"12429.0, 584827.0",Reinspection due
+HF-000045,Reyes and Sons Hospital,Community Health Center,0,St. Peter,2019-12-20,2025-11-26,"-59.1557, 12.89897",Good
+HF-000061,"Porter, Reyes and Haynes",Polyclinic,0,St. Andrew,2019-08-08,2019-09-23,"13.14032, -59.24666",Follow-up 2023
+HF-000075,"Martinez, Williams and Ellis Polyclinic",Hospital,0,St. James,2017-07-01,2023-01-08,"125858.0, 591320.0",Follow-up 2023
+HF-000090,Mcbride-Lawson,Polyclinic,207,St. James,2018-10-22,2019-08-30,"125036.0, 584516.0",Good
+HF-000121,Owens Ltd,Hospital,495,St. James,2022-03-08,2025-02-28,"-58.80217, 13.14441",Follow-up 2023
+HF-000176,Hoffman-Harris,Polyclinic,139,St. Peter,2018-05-16,2021-03-25,"125417.0, 585319.0",Follow-up 2023
+HF-000225,"Wallace, Hogan and Atkins Health Centre",Polyclinic,0,St. Peter,2022-11-13,2023-02-18,"13.26686, -58.86775",Good
+HF-000242,Black-Ltd,Hospital,0,St. George,2018-06-23,2020-01-15,"-59.2406, 13.15048",Reinspection due
+HF-000250,"Miller, Hansen and Greene Clinic",Hospital,142,St. Lucy,2021-06-26,2021-11-08,"-58.75456, 12.74908",Needs upgrade
+HF-000288,"Frazier, Rodriguez and Carpenter",Community Health Center,303,St. George,2017-10-20,2019-10-17,"-58.93683, 12.84629",Good
+HF-000298,Dougherty-Johnson,Polyclinic,0,St. Michael,2017-10-31,2022-10-24,"-58.94336, 13.29476",Good
+HF-000346,Peterson Clinic,Community Health Center,292,St. George,2021-04-07,2023-06-07,"-59.17851, 13.20252",Needs upgrade
+HF-000351,Parker-Inc Clinic,Community Health Center,345,Christ Church,2016-02-02,2022-03-23,"-58.79975, 12.96476",Follow-up 2023
+HF-000364,"Hale, Thomas and Walker",Community Health Center,258,St. Michael,2023-02-14,2024-11-19,"-59.08277, 12.9141",Good
+HF-000383,"Silva, Erickson and Gamble Infirmary",Polyclinic,10,St. George,2018-07-16,2022-09-25,"125941.0, 585056.0",Needs upgrade
+HF-000396,Lyons-Harris Hospital.,Community Health Center,23,St. Andrew,2019-10-09,2022-05-15,"12.88493, -59.0126",Reinspection due
+HF-000397,Lyons-Harris Hospital,Community Health Center,23,St. Andrew,2019-10-09,2022-05-15,"12.88493, -59.0126",Reinspection due
+HF-000402,Lawson Inc Polyclinic,Community Health Center,189,St. George,2019-03-18,2021-04-16,"-58.84363, 13.10501",Reinspection due
+HF-000417,Kerr-,Community Health Center,111,St. Lucy,2023-01-27,2023-07-13,"-58.7143, 12.78764",Good
+HF-000477,Morris-Wong,Community Health Center,64,St. Peter,2018-09-06,2020-09-06,"-59.22532, 12.87219",Follow-up 2023
+HF-000546,Moreno,Polyclinic,10,Christ Church,2017-03-10,2024-09-25,"-59.00327, 13.00152",Good
+HF-000555,"Brady,-Beard-and-Pearson",Community Health Center,276,St. John,2018-04-29,2019-12-28,"13516.0, 585849.0",Follow-up 2023
+HF-000604,Ponce LLC Infirmary,Community Health Center,281,St. Peter,2018-01-19,2022-01-09,"-58.7049, 13.1293",Follow-up 2023
+HF-000614,"Peterson, Wells and Berry",Polyclinic,121,St. Peter,2018-12-14,2020-08-17,"13.19612, -59.02761",Reinspection due
+HF-000620,Moore Inc Clinic,Community Health Center,38,St. George,2021-11-20,2024-12-05,"1333.0, 59541.0",Needs upgrade
+HF-000648,Walton Inc,Community Health Center,118,St. James,2016-10-19,2022-11-26,"-59.10049, 13.2993",Needs upgrade
+HF-000676,Gray Ltd Polyclinic,Polyclinic,165,St. Joseph,2020-04-02,2023-04-28,"12550.0, 584340.0",Needs upgrade
+HF-000691,Singh LLC Health Centre,Polyclinic,414,St. Michael,2019-09-07,2021-03-03,"-59.07313, 12.87891",Good
+HF-000692,"Meadows, Burns and Bartlett Health Centre",Community Health Center,0,St. George,2025-03-27,2025-06-15,"12.90963, -59.06698",Reinspection due
+HF-000707,"Powell,-Fields-and-Thomas Infirmary",Community Health Center,271,St. Michael,2019-11-05,2025-05-07,"-59.07894, 13.04714",Reinspection due
+HF-000715,Webster Inc,Community Health Center,269,St. Joseph,2019-04-09,2022-08-27,"-59.16479, 13.24162",Follow-up 2023
+HF-000717,Salazar-Smith,Community Health Center,318,St. George,2023-02-14,2025-08-06,"-59.29607, 12.85739",Needs upgrade
+HF-000745,Higgins-Miranda Health Centre,Community Health Center,0,St. Lucy,2016-08-11,2024-01-05,"-59.09321, 13.26067",Reinspection due
+HF-000752,"Scott, Deleon and Campbell Medical Center",Polyclinic,162,St. George,2016-07-18,2024-03-06,"13.1494, -59.22685",Needs upgrade
+HF-000757,"Williams, Jones and Davis Hospital",Hospital,133,St. Peter,2018-02-17,2025-03-05,"13518.0, 585728.0",Needs upgrade
+HF-000811,"Mccall,-Burns-and-Price Health Centre",Polyclinic,35,St. Joseph,2021-11-26,2023-08-17,"-59.20533, 12.71071",Needs upgrade
+HF-000817,Taylor Group,Hospital,491,St. George,2019-11-19,2024-09-19,"-58.70477, 12.93758",Follow-up 2023
+HF-000831,"Glass,-Fisher-and-Brown Medical Center",Community Health Center,182,St. James,2018-06-28,2020-03-08,"-58.84289, 12.93692",Follow-up 2023
+HF-000886,"Salinas, Hill and Martin",Community Health Center,0,St. Joseph,2019-05-21,2020-02-09,"131557.0, 58591.0",Follow-up 2023
+HF-000915,Newman-Campbell Hospital,Community Health Center,0,St. Joseph,2018-11-20,2025-10-30,"-58.91795, 12.85139",Good
+HF-000941,Watkins-Wyatt Medical Center,Hospital,44,St. Joseph,2017-02-05,2023-09-16,"-58.73128, 12.75318",Reinspection due
+HF-000950,Perkins-Leach Clinic,Hospital,459,St. Michael,2020-12-11,2022-08-09,"131143.0, 59647.0",Good
+HF-000967,Powell LLC Hospital,Polyclinic,286,St. James,2019-04-08,2022-07-28,"-59.01703, 12.90486",Follow-up 2023
+HF-000973,Cooper Group Infirmary,Hospital,0,St. Lucy,2019-11-10,2024-03-15,"13.00977, -58.74833",Good
+HF-000980,Anderson Group Hospital,Community Health Center,401,St. Andrew,2018-09-20,2020-10-24,"1337.0, 59842.0",Good
+HF-000996,Nelson LLC Hospital,Community Health Center,334,St. Michael,2017-12-08,2018-12-04,"-58.79456, 13.07672",Needs upgrade
+HF-001008,"Brady, Paul and Huang Medical Center",Polyclinic,10,St. John,2016-05-17,2025-04-17,"-59.28183, 13.07582",Follow-up 2023
+HF-001027,Roman,Community Health Center,58,St. James,2020-01-28,2023-05-25,"12.84144, -59.00881",Follow-up 2023
+HF-001035,"Johnson, Perez and Aguirre",Polyclinic,105,St. Lucy,2016-02-01,2019-04-19,"125634.0, 59011.0",Good
+HF-001074,Michael-LLC Medical Center,Polyclinic,0,St. James,2017-08-01,2018-07-31,"125435.0, 585916.0",Reinspection due
+HF-001094,"Pruitt, Morgan and Gutierrez",Hospital,0,St. John,2018-05-12,2022-10-05,"-58.7951, 12.98657",Reinspection due
+HF-001097,Chapman-Peters Polyclinic,Hospital,161,St. James,2021-12-05,2024-05-05,"-58.83984, 12.86774",Good
+HF-001098,Fowler-LLC Medical Center,Polyclinic,32,St. John,2017-06-10,2023-05-03,"125230.0, 5971.0",Good
+HF-001170,Mcdowell and Sons Health Centre,Polyclinic,0,St. Joseph,2020-08-01,2023-06-21,"125032.0, 59221.0",Needs upgrade
+HF-001177,Robinson-Johnson Hospital,Community Health Center,0,St. John,2022-11-05,2025-07-12,"-58.70307, 12.839",Good
+HF-001217,West Infirmary,Hospital,0,St. John,2017-09-08,2021-04-01,"-58.9403, 12.73898",Reinspection due
+HF-001228,"Bell,-Clark-and-Bauer Polyclinic",Community Health Center,97,St. Andrew,2016-11-07,2022-11-07,"-58.93253, 13.01204",Follow-up 2023
+HF-001255,Rosario-Arellano Polyclinic,Community Health Center,163,Christ Church,2023-03-14,2023-09-26,"-59.11216, 13.09627",Good
+HF-001283,"Stevens, Rogers and Smith Hospital",Community Health Center,10,St. Michael,2024-01-23,2024-08-17,"131557.0, 5919.0",Reinspection due
+HF-001297,Jensen,Community Health Center,391,St. Peter,2020-10-29,2024-04-18,"12.92854, -58.86027",Needs upgrade
+HF-001376,Bishop Inc,Hospital,0,St. John,2018-07-04,2025-10-06,"12.7027, -59.03029",Reinspection due
+HF-001386,"Wilkins, Krueger and Duran Hospital",Community Health Center,0,St. George,2021-01-03,2023-07-06,"-58.83937, 13.11311",Needs upgrade
+HF-001393,Winters-Brooks Infirmary,Community Health Center,377,St. George,2020-03-25,2023-04-29,"13.13528, -58.74535",Reinspection due
+HF-001406,"Cameron, Johnston and Ramirez Polyclinic",Community Health Center,0,St. James,2016-11-04,2022-01-29,"-59.06357, 13.05542",Good
+HF-001408,Hansen LLC,Community Health Center,288,St. Lucy,2020-03-07,2022-09-19,"12.73541, -58.81826",Reinspection due
+HF-001423,Shaw Inc,Community Health Center,0,St. Michael,2021-04-10,2023-04-16,"13.01041, -59.00119",Good
+HF-001427,Davis Medical Center,Polyclinic,153,St. Andrew,2020-06-16,2022-06-10,"13.09935, -58.92254",Good
+HF-001450,"Williamson, Clark and Sanchez Clin",Hospital,0,St. Peter,2016-07-03,2023-07-16,"1384.0, 58428.0",Good
+HF-001451,"Williamson, Clark and Sanchez Clinic",Hospital,0,St. Peter,2016-07-03,2023-07-16,"1384.0, 58428.0",Good
+HF-001454,Bennett Hospital,Community Health Center,0,St. James,2018-06-18,2019-03-25,"-59.19061, 13.27476",Good
+HF-001505,Reeves-Mitchell,Community Health Center,0,St. Michael,2021-12-03,2025-10-16,"-58.80216, 13.07214",Reinspection due
+HF-001596,Hamilton-Inc Medical Center,Community Health Center,7,St. Joseph,2025-01-15,2025-03-09,"13.28445, -58.73193",Reinspection due
+HF-001607,Carrillo-Brown Hospital,Community Health Center,156,St. Joseph,2016-08-02,2023-05-03,"-59.06193, 13.26398",Needs upgrade
+HF-001608,Cowan LLC Health Centre,Community Health Center,0,St. Joseph,2024-04-08,2025-03-11,"-58.76242, 13.29915",Follow-up 2023
+HF-001609,"Smith, Fitzgerald and Nelson Hospital",Community Health Center,0,St. Peter,2016-09-21,2020-07-18,"13632.0, 59413.0",Reinspection due
+HF-001620,"Thomas, Odom and Collins Polyclinic",Community Health Center,0,St. Michael,2019-05-07,2024-07-01,"12.78162, -58.72168",Needs upgrade
+HF-001629,Stanley-Zimmerman Health Centre,Polyclinic,47,St. Michael,2017-05-26,2025-11-24,"131011.0, 585840.0",Follow-up 2023
+HF-001632,Howard Group Hospital,Community Health Center,103,St. Lucy,2021-10-20,2025-06-12,"-58.81548, 13.07983",Reinspection due
+HF-001636,Lam-Jones,Polyclinic,98,St. George,2023-05-17,2023-08-19,"13.20578, -58.85722",Reinspection due
+HF-001641,Moreno Polyclinic,Hospital,347,St. Andrew,2018-01-03,2023-07-31,"124252.0, 584345.0",Reinspection due
+HF-001649,Farrell Health Centre,Polyclinic,199,St. Andrew,2019-11-03,2023-05-31,"-59.02281, 12.87673",Reinspection due
+HF-001665,"Foster, Elliott and Medina Medical Center",Polyclinic,182,St. Lucy,2021-04-03,2025-10-28,"-59.19667, 12.84355",Reinspection due
+HF-001701,Alvarez Clinic,Community Health Center,246,St. Michael,2016-08-11,2020-04-01,"-59.29273, 12.89848",Follow-up 2023
+HF-001738,Meza-Thomas,Community Health Center,13,St. Peter,2019-07-02,2021-03-18,"-58.76656, 13.26523",Needs upgrade
+HF-001749,Burch and Sons Infirmary,Community Health Center,10,St. John,2021-05-28,2023-04-26,"-58.93947, 12.88618",Good
+HF-001754,Howell-Castaneda Clinic,Polyclinic,150,St. George,2018-05-15,2024-04-07,"-58.8167, 13.18788",Reinspection due
+HF-001793,"Davidson,-White-and-Browning",Community Health Center,0,St. Peter,2019-05-29,2023-12-17,"-59.17901, 12.93161",Needs upgrade
+HF-001816,Clark Infirmary,Hospital,447,St. Peter,2019-10-13,2025-09-28,"-58.90931, 12.70894",Good
+HF-001827,Carson Group,Community Health Center,10,St. John,2024-08-04,2025-03-18,"-59.05098, 13.2107",Follow-up 2023
+HF-001844,Mitchell-,Community Health Center,370,St. Peter,2018-11-07,2024-01-23,"124242.0, 59629.0",Reinspection due
+HF-001849,Spencer Inc Infirmary,Hospital,0,St. Michael,2018-03-16,2023-05-01,"131441.0, 59828.0",Reinspection due
+HF-001860,"Webb, Conley and Hill Infirmary",Community Health Center,0,St. Andrew,2021-05-18,2021-06-18,"13.17598, -59.15539",Reinspection due
+HF-001883,Johnson-Mack Hospital,Hospital,0,St. James,2018-12-23,2020-09-20,"-58.95579, 12.74538",Good
+HF-001903,Wolfe-Morgan,Community Health Center,0,St. Joseph,2016-02-17,2022-08-19,"-58.93595, 12.71288",Needs upgrade
+HF-001918,Newman-Calhoun Infirmary,Polyclinic,38,St. Peter,2016-04-25,2019-02-18,"-58.79252, 12.74144",Needs upgrade
+HF-001922,"Wolfe, Jackson and Benton",Polyclinic,0,St. James,2017-05-21,2019-08-27,"12.94763, -59.03482",Follow-up 2023
+HF-001950,Reynolds-Burns Clinic,Polyclinic,0,St. George,2022-11-15,2023-07-11,"13343.0, 584652.0",Needs upgrade
+HF-001964,Bartlett LLC,Hospital,10,Christ Church,2021-06-13,2022-11-13,"-59.08579, 12.7281",Needs upgrade
+HF-001979,Johnson-Chapman Health Centre,Community Health Center,90,St. Lucy,2017-08-10,2024-07-12,"-59.28406, 13.13066",Follow-up 2023
+HF-001989,Hensley Ltd Clinic,Community Health Center,436,St. Peter,2019-06-30,2022-09-16,"131757.0, 584949.0",Reinspection due
+HF-001990,Alvarez-Soto,Community Health Center,10,St. Lucy,2020-08-29,2023-10-22,"12.87732, -58.77145",Good
+HF-002000,Ryan-Morris Health Centre,Community Health Center,145,St. George,2018-10-04,2020-04-11,"131243.0, 58595.0",Follow-up 2023
+HF-002068,"Malone, Jones and Robbins Infirmary",Community Health Center,480,St. Michael,2020-11-02,2023-08-08,"-59.03151, 12.96314",Reinspection due
+HF-002094,Alvarez-Scott Hospital,Community Health Center,0,St. Andrew,2023-05-21,2024-07-01,"-59.25522, 13.07114",Needs upgrade
+HF-002105,"Snyder, Walker and Peterson Hospital",Community Health Center,10,St. James,2019-02-20,2023-07-11,"-58.82632, 12.82358",Follow-up 2023
+HF-002107,Page Clinic,Polyclinic,0,St. Andrew,2021-09-20,2025-02-13,"131328.0, 59755.0",Follow-up 2023
+HF-002119,"Ibarra, Arnold and Cunningham Clinic",Community Health Center,0,St. Lucy,2017-04-27,2020-10-20,"13335.0, 58461.0",Follow-up 2023
+HF-002120,Mckinney-Hernandez,Community Health Center,105,St. Andrew,2021-10-14,2022-07-29,"-58.73264, 13.22433",Follow-up 2023
+HF-002128,"Woods, Cook and Callahan Infirmary",Community Health Center,0,St. Peter,2018-05-20,2022-02-14,"-59.03275, 13.23283",Reinspection due
+HF-002132,"Alexander, Jones and Anderson Infirmary",Community Health Center,116,St. James,2019-05-06,2024-01-17,"-59.28706, 13.01059",Reinspection due
+HF-002146,Williams,Polyclinic,171,St. James,2021-09-12,2022-06-17,"125528.0, 59330.0",Good
+HF-002158,Floyd-LLC Clinic,Community Health Center,33,St. Joseph,2017-04-29,2022-03-05,"12.96689, -59.26571",Good
+HF-002161,Lewis Ltd Health Centre,Community Health Center,364,St. Lucy,2020-01-23,2024-03-11,"13.11079, -59.08991",Needs upgrade
+HF-002205,Mcguire-Moore Hospital,Polyclinic,151,St. Michael,2016-05-21,2019-08-11,"12.90165, -59.14032",Reinspection due
+HF-002221,Moore-Morris Hospital,Community Health Center,263,St. Joseph,2016-01-23,2020-12-03,"-58.76292, 13.29009",Follow-up 2023
+HF-002222,Williams Polyclinic,Community Health Center,10,St. Joseph,2019-02-21,2019-12-06,"13631.0, 584426.0",Follow-up 2023
+HF-002230,"Romero, Johnson and Lewis Polyclinic",Community Health Center,0,St. George,2020-05-08,2022-05-22,"125942.0, 585713.0",Needs upgrade
+HF-002257,"Duncan, Larsen and Lopez Polyclinic",Community Health Center,10,St. Andrew,2020-04-11,2022-09-05,"-58.75512, 12.82722",Reinspection due
+HF-002272,"Hurst, Hughes and Taylor Polyclinic",Community Health Center,486,St. James,2018-10-28,2020-02-19,"-58.83612, 13.09476",Reinspection due
+HF-002358,"Harvey, Butler and Horn Hospital",Hospital,0,St. John,2018-11-19,2024-10-17,"131341.0, 584227.0",Needs upgrade
+HF-002368,Manning-Romero,Community Health Center,0,St. John,2020-08-31,2023-10-11,"-58.96949, 13.03824",Good
+HF-002383,"Flores,-Garrett-and-Flores",Community Health Center,139,St. Michael,2019-09-12,2020-09-13,"131010.0, 5955.0",Needs upgrade
+HF-002402,James-Woods Hospital,Community Health Center,0,St. Peter,2017-01-26,2022-11-05,"12.76415, -59.28216",Needs upgrade
+HF-002455,Wilson,Polyclinic,340,St. Joseph,2018-11-21,2025-08-05,"13418.0, 584235.0",Reinspection due
+HF-002485,Herman-Young,Community Health Center,114,St. George,2017-08-06,2018-07-26,"-59.09039, 12.92763",Follow-up 2023
+HF-002514,"Griffin, Hale and Cruz Health Centre",Polyclinic,9,St. Peter,2025-05-18,2025-06-26,"13.08548, -58.84504",Follow-up 2023
+HF-002538,"Martin, Jones and Huff Infirmary",Community Health Center,372,St. Joseph,2023-12-12,2025-01-10,"12.89247, -59.01767",Good
+HF-002568,Hughes and Sons,Community Health Center,449,St. John,2018-04-28,2020-09-01,"13.00768, -58.73826",Good
+HF-002571,Hill-Thomas Health Centre,Community Health Center,265,St. Joseph,2017-10-28,2019-05-23,"13.04155, -59.26681",Good
+HF-002604,"Morales, Goodman and Roman Infirmary",Polyclinic,186,St. James,2021-05-30,2024-09-01,"-58.76511, 13.14421",Needs upgrade
+HF-002624,"Small, Howard and Brown Medical Center",Polyclinic,226,St. George,2024-04-01,2024-04-12,"-58.75923, 13.29766",Needs upgrade
+HF-002626,Garrett-Barnett Health Centre,Community Health Center,0,St. John,2020-10-22,2025-02-16,"-58.92281, 13.05643",Good
+HF-002628,"Cooper, Goodwin and Bradley Hospital",Hospital,10,St. Andrew,2021-04-09,2022-11-24,"-58.78179, 13.08268",Needs upgrade
+HF-002633,Zimmerman-Hernandez Health Centre,Community Health Center,0,St. James,2018-08-12,2020-05-19,"13928.0, 59538.0",Reinspection due
+HF-002664,Greene-and-Sons Infirmary,Community Health Center,320,St. Joseph,2024-12-28,2025-07-08,"13122.0, 58568.0",Needs upgrade
+HF-002674,Kim-Ramos,Community Health Center,0,St. George,2018-08-28,2024-12-12,"12.81923, -58.81116",Needs upgrade
+HF-002702,Johnson-Adkins Polyclinic,Community Health Center,455,St. Peter,2023-06-09,2025-06-15,"-58.98903, 12.73067",Good
+HF-002734,Schaefer-Nguyen Health Centre,Polyclinic,238,St. Joseph,2020-06-22,2022-06-26,"-58.70753, 13.29048",Good
+HF-002741,"Thomas, Miles and Reynolds Hospital",Community Health Center,0,St. Joseph,2018-10-03,2021-12-06,"-58.7459, 13.2902",Reinspection due
+HF-002776,Clark Ltd Medical Center,Polyclinic,254,St. George,2019-09-06,2025-07-11,"13.25686, -58.80339",Reinspection due
+HF-002823,"Pham, Simpson and Cruz Health Centre",Community Health Center,202,St. John,2017-01-03,2022-11-04,"-58.86533, 13.19309",Follow-up 2023
+HF-002846,"Montoya, Morales and White Health Centre",Polyclinic,379,St. Lucy,2019-11-21,2019-12-28,"124759.0, 591518.0",Follow-up 2023
+HF-002861,Gillespie Ltd Health Centre,Polyclinic,0,St. James,2021-06-05,2025-09-05,"-59.27096, 13.21446",Needs upgrade
+HF-002878,Rogers-Marquez Hospital,Community Health Center,401,St. Joseph,2020-12-13,2021-02-27,"12.86316, -59.18606",Reinspection due
+HF-002925,"Martinez, Wilson and Lara",Community Health Center,10,St. James,2021-05-15,2024-05-14,"12.76098, -59.0726",Reinspection due
+HF-002970,Parker Health Centre,Community Health Center,402,St. Andrew,2017-10-11,2024-12-20,"-59.02073, 12.90825",Reinspection due
+HF-002979,Serrano Inc Hospital,Community Health Center,346,St. Joseph,2022-03-10,2024-08-04,"-59.15442, 13.24587",Needs upgrade
+HF-003019,"Carr,-Flores-and-Rodgers Infirmary",Polyclinic,468,St. Peter,2019-10-14,2022-06-22,"-59.23768, 13.20085",Reinspection due
+HF-003020,"Cook, Johnson and Watkins Infirmary",Community Health Center,0,St. George,2017-09-10,2021-08-06,"12.9605, -59.05636",Reinspection due
+HF-003039,"Gutierrez, Pollard and Wilson Clinic",Community Health Center,390,St. Peter,2021-02-13,2023-09-16,"-58.74411, 12.7265",Needs upgrade
+HF-003041,"Colon, Turner and Moreno Health Centre",Hospital,357,St. George,2022-10-09,2025-03-25,"124421.0, 584559.0",Good
+HF-003058,Murphy-Randolph,Polyclinic,0,St. Michael,2017-02-26,2021-11-25,"12582.0, 585342.0",Follow-up 2023
+HF-003076,Allen-Gonzales Polyclinic,Community Health Center,334,Christ Church,2018-09-02,2023-11-29,"-58.76306, 12.82261",Follow-up 2023
+HF-003087,"Mccoy, Johnson and Hogan Hospital",Community Health Center,0,St. Peter,2023-02-09,2023-03-04,"125453.0, 591727.0",Good
+HF-003106,Williams Group Clinic,Community Health Center,16,St. Joseph,2016-05-29,2021-03-16,"131456.0, 585432.0",Good
+HF-003132,Carter-Williams,Hospital,0,St. Lucy,2020-08-24,2024-06-18,"13810.0, 591645.0",Follow-up 2023
+HF-003135,Torres Infirmary,Hospital,163,St. John,2018-07-30,2021-01-18,"13.27491, -58.73158",Needs upgrade
+HF-003164,"Williams, Day and Stafford Clinic",Community Health Center,0,St. Joseph,2016-04-23,2021-09-13,"13315.0, 59144.0",Follow-up 2023
+HF-003178,Griffin Ltd,Community Health Center,368,St. Lucy,2023-08-24,2023-10-01,"13.0341, -58.96592",Good
+HF-003180,Frey and Sons Polyclinic,Polyclinic,200,St. Andrew,2020-08-31,2021-08-24,"125841.0, 585446.0",Reinspection due
+HF-003191,Hobbs,Hospital,0,St. Michael,2019-01-11,2024-02-04,"-58.7625, 12.8779",Needs upgrade
+HF-003195,Stevenson LLC Hospital,Polyclinic,66,St. John,2021-07-01,2021-07-17,"124838.0, 59121.0",Reinspection due
+HF-003250,Cruz-Price Polyclinic,Community Health Center,0,St. Peter,2019-01-27,2024-12-25,"13.09036, -58.78693",Good
+HF-003266,Carlson-Glover Clinic,Community Health Center,0,St. George,2019-03-30,2023-12-20,"12.74738, -59.15374",Follow-up 2023
+HF-003273,"Griffin, Gonzales and Miller Clinic",Hospital,468,St. John,2016-06-23,2019-07-11,"12.98678, -59.18281",Needs upgrade
+HF-003290,Adams-,Community Health Center,129,St. Michael,2017-04-04,2023-09-07,"-58.98258, 12.81643",Needs upgrade
+HF-003292,Young-Middleton Hospital,Community Health Center,0,St. Peter,2017-08-03,2023-03-16,"-58.82207, 12.83833",Needs upgrade
+HF-003297,"Oneill, Thompson and Weaver Medical Center",Community Health Center,132,St. Michael,2022-08-08,2025-04-20,"1391.0, 591422.0",Good
+HF-003298,Cohen-LLC Polyclinic,Polyclinic,308,St. James,2018-03-15,2022-11-19,"124230.0, 591212.0",Follow-up 2023
+HF-003300,"Holmes, Glenn and Dean",Community Health Center,471,St. John,2018-10-09,2024-07-10,"13.09353, -59.23359",Needs upgrade
+HF-003304,Horton-Tran Infirmary,Polyclinic,179,St. John,2021-02-21,2023-01-23,"-59.08078, 12.89888",Good
+HF-003305,Arroyo Group Health Centre,Polyclinic,235,St. John,2018-12-01,2024-11-20,"125040.0, 591218.0",Good
+HF-003317,Davis-Ltd Polyclinic,Community Health Center,0,St. Peter,2020-06-07,2024-08-17,"13129.0, 58582.0",Needs upgrade
+HF-003338,Sheppard-Boone,Polyclinic,0,St. Andrew,2022-04-26,2023-04-30,"13.09573, -58.94733",Good
+HF-003350,"Morgan, Coleman and Anderson Polyclinic",Polyclinic,69,St. Michael,2016-05-11,2019-11-08,"-58.86037, 13.05484",Reinspection due
+HF-003366,Hanna-Ltd Infirmary,Community Health Center,1,St. Lucy,2020-11-21,2021-05-02,"-58.9253, 13.0891",Needs upgrade
+HF-003395,"Jones, Bennett and Peters",Polyclinic,40,St. George,2024-10-29,2025-06-14,"13147.0, 585031.0",Follow-up 2023
+HF-003431,"Martinez, Gentry and Bullock Infirmary",Community Health Center,0,St. John,2021-11-23,2024-12-01,"-59.12425, 13.00176",Follow-up 2023
+HF-003437,Anthony,Community Health Center,215,Christ Church,2019-05-23,2024-02-22,"13.18597, -59.09495",Good
+HF-003438,Rodriguez-Trevino Hospital,Polyclinic,0,St. George,2016-12-29,2021-04-12,"-58.77175, 13.09943",Reinspection due
+HF-003464,Hunter Group Medical Center,Hospital,0,St. Peter,2018-05-26,2021-07-08,"-58.86427, 12.81436",Needs upgrade
+HF-003471,"Tucker,-Woods-and-Rodriguez",Polyclinic,419,St. Joseph,2021-12-24,2025-07-24,"13939.0, 584834.0",Follow-up 2023
+HF-003486,Ford-Henderson Clinic,Polyclinic,51,St. John,2020-09-07,2022-09-05,"131717.0, 58502.0",Needs upgrade
+HF-003487,Ford-Henderson Clin,Polyclinic,51,St. John,2020-09-07,2022-09-05,"131717.0, 58502.0",Needs upgrade
+HF-003503,"Sullivan, Lam and Mclaughlin Hospital",Community Health Center,204,St. Peter,2020-09-23,2025-05-07,"-59.05344, 13.12548",Needs upgrade
+HF-003520,"Le, Hess and Landry",Community Health Center,0,St. Michael,2018-08-02,2020-04-12,"131650.0, 585358.0",Good
+HF-003522,Snyder-Warner Hospital,Polyclinic,0,St. John,2024-05-09,2024-09-07,"-58.72912, 12.98677",Good
+HF-003534,Thomas-Inc Hospital,Community Health Center,10,St. Peter,2017-03-22,2018-09-14,"124828.0, 585749.0",Reinspection due
+HF-003540,Harrell LLC,Polyclinic,179,St. Peter,2020-12-10,2022-02-24,"13.04999, -59.03244",Good
+HF-003544,Garcia LLC,Polyclinic,284,St. Lucy,2016-12-05,2018-12-25,"-59.17739, 13.2862",Good
+HF-003567,"Fox, Gentry and Graves Clinic",Hospital,481,St. Peter,2019-02-22,2025-05-21,"-59.25354, 13.27519",Reinspection due
+HF-003593,"Coleman, Kelley and Hines Hospital",Community Health Center,426,St. James,2018-04-06,2023-06-20,"-58.93456, 13.0412",Reinspection due
+HF-003635,Ponce-Higgins Infirmary,Polyclinic,51,St. Andrew,2018-08-26,2019-07-12,"-58.73689, 12.87689",Reinspection due
+HF-003642,Moran,Polyclinic,447,St. John,2019-11-29,2024-08-28,"131252.0, 591458.0",Needs upgrade
+HF-003656,"Flores,-Alvarez-and-Clark",Polyclinic,20,St. Peter,2018-05-28,2025-12-29,"-58.74175, 12.84367",Needs upgrade
+HF-003664,Gardner-Hernandez,Community Health Center,465,St. James,2020-07-18,2021-11-23,"-59.02096, 13.14856",Good
+HF-003682,Kelley-Jennings Infirmary,Polyclinic,10,St. Andrew,2022-04-22,2022-08-23,"-59.20488, 13.28812",Reinspection due
+HF-003716,White-Taylor Clinic,Hospital,0,St. Michael,2019-12-13,2025-10-18,"13.15668, -58.76705",Follow-up 2023
+HF-003728,"Leonard,-Cole-and-Scott Polyclinic",Polyclinic,15,St. Joseph,2018-12-28,2021-03-12,"12.73337, -59.13713",Needs upgrade
+HF-003749,Stevens and Sons Clinic,Polyclinic,140,Christ Church,2020-02-03,2023-05-13,"-58.86648, 12.95699",Follow-up 2023
+HF-003758,Stein-Beasley,Polyclinic,10,St. Lucy,2019-08-06,2024-03-20,"12.8197, -58.83413",Follow-up 2023
+HF-003779,Lewis-Branch Polyclinic,Community Health Center,190,St. John,2019-02-25,2021-11-05,"12.79609, -58.90112",Reinspection due
+HF-003792,Crane Medical Center,Community Health Center,0,St. George,2016-06-21,2024-09-12,"13.28715, -59.14471",Reinspection due
+HF-003798,Martinez LLC,Polyclinic,127,St. John,2017-06-30,2025-10-22,"-59.22674, 12.82354",Needs upgrade
+HF-003806,"Smith, Hill and Berry",Polyclinic,63,St. Peter,2022-06-15,2025-07-29,"-59.06928, 13.07485",Reinspection due
+HF-003808,"Kelly, Johnson and Sheppard Polyclinic",Polyclinic,0,St. George,2017-12-12,2019-07-17,"-59.03582, 13.25985",Reinspection due
+HF-003816,Wong and Sons,Community Health Center,0,St. Joseph,2020-09-04,2024-03-28,"12.98239, -59.22495",Reinspection due
+HF-003846,"Perkins, Stanley and Daniel Clinic",Community Health Center,460,St. Joseph,2020-01-08,2023-01-18,"-59.29771, 13.26398",Needs upgrade
+HF-003881,"West, Price and Chambers",Polyclinic,154,St. John,2017-06-10,2025-01-06,"-59.02175, 13.01244",Good
+HF-003897,"James, Griffin and Christian Hospital",Polyclinic,0,Christ Church,2019-09-28,2023-08-26,"-58.94932, 12.76795",Good
+HF-003898,"Ellis, Dawson and Riddle Polyclinic",Community Health Center,0,St. George,2019-08-03,2023-05-05,"12.80162, -59.29217",Good
+HF-003922,"Ross, Larson and Clark",Community Health Center,137,St. Joseph,2016-05-26,2020-01-01,"131353.0, 591030.0",Good
+HF-003948,"Stephenson, Wilson and Ingram",Hospital,10,St. Lucy,2023-10-14,2025-06-11,"-59.14573, 13.25451",Reinspection due
+HF-004025,Conway-Carr Clinic,Polyclinic,0,St. Lucy,2018-08-01,2022-09-30,"-59.08158, 13.19556",Follow-up 2023
+HF-004026,Hill Inc Infirmary,Community Health Center,239,St. Andrew,2020-10-10,2024-02-01,"13.27848, -59.0522",Needs upgrade
+HF-004056,King Inc Medical Center,Hospital,0,St. James,2020-10-11,2024-03-02,"13.15993, -59.17818",Needs upgrade
+HF-004068,Mendez LLC,Polyclinic,246,St. James,2019-06-04,2023-11-23,"12.93041, -58.79474",Follow-up 2023
+HF-004127,"Walker, Perez and Beck Health Centre",Community Health Center,0,St. Andrew,2023-12-30,2025-07-23,"-58.70997, 12.93963",Needs upgrade
+HF-004139,Miller-Gonzalez,Community Health Center,283,St. Joseph,2022-09-23,2024-06-27,"-59.00757, 12.78501",Reinspection due
+HF-004171,Jackson Group Polyclinic,Polyclinic,191,St. George,2018-03-03,2025-06-15,"124642.0, 585228.0",Needs upgrade
+HF-004208,"Shelton,-Murphy-and-Wood Hospital",Polyclinic,446,St. Michael,2018-07-02,2023-11-13,"-59.16833, 12.99718",Needs upgrade
+HF-004211,"Sullivan, Barnett and Barnes Infirmary",Community Health Center,32,St. James,2018-06-30,2023-09-14,"-59.09164, 12.87485",Reinspection due
+HF-004215,Lopez Ltd Clinic,Polyclinic,189,St. Peter,2018-11-01,2025-06-01,"12.83287, -59.09739",Good
+HF-004228,Barron Ltd Polyclinic,Community Health Center,0,St. James,2018-07-18,2019-07-19,"-59.24981, 12.90071",Good
+HF-004233,Cruz Group Hospital,Community Health Center,0,St. George,2019-10-24,2020-12-14,"131147.0, 591421.0",Reinspection due
+HF-004278,"Ford,-Campbell-and-Williams",Polyclinic,289,St. John,2021-07-25,2023-10-24,"-58.90102, 13.15027",Good
+HF-004335,"Estes, Horn and Young Health Centre",Hospital,25,St. George,2021-06-01,2025-09-13,"12589.0, 585423.0",Follow-up 2023
+HF-004337,Hernandez-Smith Medical Center,Hospital,290,St. Joseph,2017-06-21,2025-05-01,"-58.84332, 12.95534",Needs upgrade
+HF-004378,Gonzalez-King Polyclinic,Community Health Center,0,St. Lucy,2019-10-29,2025-12-14,"-59.05043, 13.15474",Needs upgrade
+HF-004422,"Baker, Davis and Singh",Community Health Center,143,St. Joseph,2019-02-01,2020-03-24,"-58.91751, 12.95057",Reinspection due
+HF-004429,"Adams, Garrison and Baker Hospital",Polyclinic,65,St. James,2021-01-23,2022-01-19,"-59.07936, 13.02154",Follow-up 2023
+HF-004436,"Garcia, Carroll and White",Community Health Center,0,St. James,2018-04-28,2024-11-24,"-59.09376, 12.74796",Needs upgrade
+HF-004440,Webster-Peck Medical Center,Community Health Center,211,St. James,2018-07-03,2025-12-29,"12.98711, -59.18026",Good
+HF-004453,"Lucas, Little and Johnson Infirmary",Community Health Center,10,St. Peter,2016-11-02,2023-06-27,"13.06068, -59.01922",Good
+HF-004481,"Patel, Martinez and Wells Health Centre",Polyclinic,0,St. John,2020-01-08,2023-11-06,"-59.2524, 13.10177",Good
+HF-004490,Haynes-Group Infirmary,Community Health Center,168,St. Michael,2018-11-18,2025-12-01,"12.93385, -58.93135",Good
+HF-004499,"May, Smith and Willis Clinic",Polyclinic,0,St. Joseph,2020-08-23,2025-05-06,"124452.0, 584230.0",Reinspection due
+HF-004515,Ford Infirmary,Community Health Center,216,St. Lucy,2019-04-14,2024-09-28,"12.9317, -59.01629",Needs upgrade
+HF-004530,Hart Inc Medical Center,Polyclinic,0,St. James,2018-01-11,2024-07-21,"-59.22368, 13.21898",Follow-up 2023
+HF-004551,Wyatt-Wright,Hospital,0,St. George,2018-08-03,2019-07-03,"-59.08491, 12.99109",Follow-up 2023
+HF-004581,Gutierrez Hospital,Hospital,80,St. John,2020-02-27,2022-07-18,"131523.0, 585455.0",Good
+HF-004583,"Orozco,-Christensen-and-Hoffman Medical Center",Hospital,418,St. James,2018-02-21,2021-09-01,"-59.13522, 13.11672",Good
+HF-004621,Wilson Group Hospital,Community Health Center,10,St. John,2020-12-15,2023-06-30,"-58.83096, 13.10652",Needs upgrade
+HF-004635,Mahoney LLC Hospital,Polyclinic,113,St. Michael,2020-08-07,2022-07-02,"-59.09783, 13.07835",Good
+HF-004644,Dixon-Inc Hospital,Polyclinic,0,St. James,2017-02-06,2023-01-07,"125326.0, 591027.0",Reinspection due
+HF-004664,Harris LLC Medical Center,Polyclinic,10,St. Michael,2022-09-07,2024-05-30,"-59.01892, 13.00551",Good
+HF-004681,Ellis-Gomez Hospital,Polyclinic,300,St. Joseph,2020-10-24,2020-11-20,"125536.0, 59015.0",Follow-up 2023
+HF-004682,Davis-Larson Polyclinic,Polyclinic,10,St. John,2021-08-12,2023-05-20,"-59.01374, 12.97376",Needs upgrade
+HF-004772,"Thompson, Hunt and Estrada Polyclinic",Community Health Center,291,St. Andrew,2021-03-07,2021-10-02,"13356.0, 584550.0",Needs upgrade
+HF-004785,Owens-Owens Clinic,Community Health Center,0,St. Andrew,2020-11-06,2025-01-21,"12.78265, -59.01332",Good
+HF-004807,Stanley and Sons Hospital,Hospital,17,St. Michael,2021-10-18,2022-04-22,"124832.0, 591743.0",Follow-up 2023
+HF-004810,Price-Miller,Polyclinic,10,St. Peter,2024-09-17,2025-04-19,"13313.0, 59448.0",Reinspection due
+HF-004814,"Arnold, Hudson and Clayton Health Centre",Community Health Center,0,St. Peter,2019-04-27,2024-06-16,"-58.87256, 13.25409",Reinspection due
+HF-004815,"Hall, Phillips and Mills Clinic",Community Health Center,0,St. Michael,2021-09-24,2024-11-08,"13.00197, -58.85249",Follow-up 2023
+HF-004836,"Fisher,-Smith-and-Campbell Clinic",Polyclinic,0,St. Lucy,2016-10-04,2020-03-23,"-58.86885, 13.20184",Reinspection due
+HF-004870,Chapman Hospital,Hospital,194,St. James,2021-12-09,2024-04-28,"125453.0, 59535.0",Reinspection due
+HF-004897,Saunders LLC Hospital,Polyclinic,0,St. John,2018-04-03,2022-03-07,"-58.98166, 13.26686",Needs upgrade
+HF-004900,Jackson-Hampton Polyclinic,Polyclinic,113,St. George,2018-05-17,2020-11-27,"-59.22838, 13.22833",Reinspection due
+HF-004911,Hill-Curry Hospital,Community Health Center,0,St. Lucy,2022-05-13,2023-03-28,"13165.0, 585323.0",Needs upgrade
+HF-004926,Jones-Jenkins Hospital,Hospital,277,St. John,2016-07-25,2018-06-23,"12.8794, -58.94017",Good
+HF-004935,Carter-Porter,Community Health Center,57,St. Peter,2021-02-07,2025-01-11,"13.069, -59.16449",Follow-up 2023
+HF-004966,"Gonzales, Black and Cortez Polyclinic",Community Health Center,139,St. John,2016-09-06,2023-07-02,"13.19648, -58.70304",Reinspection due
+HF-004979,Mack-Drake Infirmary,Community Health Center,481,St. John,2018-02-10,2023-12-08,"12.73474, -59.17041",Good
+HF-005050,Fowler Group Hospital,Polyclinic,0,St. Lucy,2016-10-15,2022-03-31,"131416.0, 59215.0",Reinspection due
+HF-005054,Aguilar-Parker Medical Center,Polyclinic,10,St. Peter,2018-02-07,2018-04-28,"-58.78491, 12.93028",Reinspection due
+HF-005061,Villarreal-Graves,Hospital,10,St. Joseph,2018-05-11,2020-09-29,"-59.04322, 13.14947",Follow-up 2023
+HF-005097,Holmes Polyclinic,Polyclinic,0,St. Joseph,2018-01-26,2018-04-22,"-59.07864, 13.03409",Follow-up 2023
+HF-005103,"Gordon, Miller and Pierce Medical Center",Polyclinic,373,St. Peter,2022-06-17,2023-10-12,"12.70049, -58.84657",Reinspection due
+HF-005144,Olson-Hines Health Centre,Polyclinic,0,St. John,2018-01-01,2019-08-18,"-58.80624, 13.27257",Reinspection due
+HF-005147,Shaw Ltd Hospital,Polyclinic,322,St. Andrew,2021-04-30,2021-11-12,"-59.03404, 13.17178",Reinspection due
+HF-005149,Smith-Pierce Hospital.,Hospital,151,St. George,2023-07-24,2025-02-12,"-58.79845, 13.29529",Reinspection due
+HF-005220,Wilson-Green,Polyclinic,0,St. Andrew,2018-02-12,2021-09-08,"-58.88623, 12.73458",Good
+HF-005236,Wall Inc Polyclinic,Hospital,432,St. Michael,2020-04-09,2021-02-02,"125416.0, 584355.0",Follow-up 2023
+HF-005253,Rios-Hernandez Infirmary,Community Health Center,362,St. Lucy,2016-01-31,2023-10-29,"13559.0, 5923.0",Reinspection due
+HF-005318,Wells-Ayala Health Centre,Polyclinic,262,St. Lucy,2021-04-23,2024-07-26,"-58.82964, 13.20274",Reinspection due
+HF-005401,Hernandez-Boyd Medical Center,Hospital,146,St. James,2019-12-05,2021-06-10,"12.95259, -58.96646",Good
+HF-005428,Clark-Simmons,Community Health Center,0,St. Joseph,2017-01-15,2020-10-23,"-59.22881, 12.97857",Follow-up 2023
+HF-005440,Caldwell-Raymond,Polyclinic,0,St. James,2020-04-28,2025-09-09,"-59.18777, 13.2222",Reinspection due
+HF-005445,Lee-Chapman Polyclinic,Polyclinic,0,St. Andrew,2020-04-19,2022-09-20,"-59.13026, 12.80691",Follow-up 2023
+HF-005457,"Stevens, Terrell and Hernandez Hospital",Polyclinic,10,St. Joseph,2017-03-24,2025-12-01,"-58.73601, 12.78272",Needs upgrade
+HF-005467,"Griffin, Fuller and Salinas Medical Center",Community Health Center,0,St. Lucy,2017-06-07,2025-03-15,"1375.0, 591525.0",Good
+HF-005487,Mcbride-Brown Infirmary,Polyclinic,181,Christ Church,2020-04-10,2023-02-20,"-59.19176, 12.87038",Reinspection due
+HF-005490,Giles Inc Medical Center,Community Health Center,0,St. George,2020-06-07,2020-12-05,"-58.76503, 12.99608",Reinspection due
+HF-005530,White LLC Clinic,Polyclinic,20,St. Andrew,2017-08-06,2020-03-23,"-58.70947, 13.20439",Good
+HF-005558,Wood-Grant,Community Health Center,339,St. Joseph,2016-06-15,2022-08-27,"-59.13929, 13.07717",Reinspection due
+HF-005563,"Ortega, Hawkins and Barnett Health Centre",Community Health Center,187,St. Andrew,2019-08-31,2023-10-02,"13.03474, -59.12297",Reinspection due
+HF-005564,Delacruz-Group,Polyclinic,261,St. James,2017-09-30,2025-11-20,"-58.98627, 13.06196",Reinspection due
+HF-005589,Perez Ltd Hospital,Community Health Center,0,St. Lucy,2020-04-30,2023-02-11,"124724.0, 59159.0",Reinspection due
+HF-005593,"Leblanc, Lambert and Pollard",Community Health Center,10,St. Lucy,2019-09-04,2025-02-15,"13.04875, -59.08069",Reinspection due
+HF-005609,"Ortiz, Lee and Benson Clinic",Polyclinic,253,St. Lucy,2022-06-14,2024-11-29,"13.06349, -59.11778",Needs upgrade
+HF-005623,"Kelley, Rice and Young Hospital",Community Health Center,12,St. Joseph,2022-11-28,2025-10-31,"-59.03694, 13.2583",Good
+HF-005634,Wolfe-Esparza Polyclinic,Hospital,0,St. James,2020-11-09,2021-11-24,"-59.29951, 12.98411",Reinspection due
+HF-005642,"Hernandez, Torres and Kennedy Hospital",Community Health Center,10,St. Joseph,2020-01-01,2022-09-14,"125218.0, 585954.0",Good
+HF-005645,Miller-May Infirmary,Community Health Center,157,St. Peter,2016-07-29,2024-10-29,"13.20639, -58.99867",Follow-up 2023
+HF-005660,Brock-Taylor Infirmary,Community Health Center,484,St. Joseph,2019-08-27,2023-10-02,"12.71352, -59.10308",Needs upgrade
+HF-005677,Bell LLC Hospital,Community Health Center,232,St. James,2019-04-03,2025-09-18,"13.11833, -58.72057",Reinspection due
+HF-005696,Dixon-LLC Infirmary,Community Health Center,267,St. Andrew,2018-09-04,2025-05-11,"-59.20196, 13.29551",Follow-up 2023
+HF-005750,Grant-Vasquez Hospital,Hospital,0,St. John,2025-08-09,2025-09-25,"13237.0, 585331.0",Good
+HF-005787,Bailey Group Hospital,Hospital,338,St. Joseph,2018-06-09,2018-12-23,"-59.15895, 12.8073",Needs upgrade
+HF-005810,"Warren, Price and Moran Polyclinic",Hospital,12,Christ Church,2018-12-09,2021-10-29,"125741.0, 59112.0",Needs upgrade
+HF-005818,Miller-Johnson Infirmary,Polyclinic,4,Christ Church,2018-05-11,2025-03-10,"-59.04107, 13.24298",Needs upgrade
+HF-005825,"Valentine, Miller and Green",Community Health Center,428,St. George,2017-06-28,2023-03-18,"-59.00101, 13.09463",Reinspection due
+HF-005831,Barnett-Hayes Hospital,Hospital,0,St. George,2023-06-10,2023-11-19,"-59.18494, 12.89258",Reinspection due
+HF-005833,Juarez Ltd,Community Health Center,0,St. James,2022-09-29,2023-11-26,"12.72153, -58.88726",Follow-up 2023
+HF-005842,Miller-Walker,Community Health Center,281,St. Peter,2018-11-24,2020-02-24,"125730.0, 58465.0",Needs upgrade
+HF-005861,Holden-Peters Health Centre,Community Health Center,233,St. George,2022-06-06,2022-10-05,"131342.0, 585657.0",Needs upgrade
+HF-005863,Mills-Graves,Polyclinic,0,St. Joseph,2020-09-03,2023-01-03,"125519.0, 59745.0",Reinspection due
+HF-005871,Harrison-Figueroa,Community Health Center,491,St. Michael,2019-12-13,2022-12-13,"-58.72821, 12.91569",Needs upgrade
+HF-005889,"Owens, Barrera and Wright Health Centre",Polyclinic,395,St. Joseph,2021-10-18,2025-03-29,"13.23518, -58.96714",Follow-up 2023
+HF-005914,Wright Group Clinic,Polyclinic,0,St. James,2017-05-03,2021-11-28,"-58.76788, 13.23457",Reinspection due
+HF-005929,Friedman-Knight,Hospital,466,St. George,2018-05-15,2018-12-09,"13.1036, -58.95369",Follow-up 2023
+HF-005936,"Huynh, Moreno and Jennings Polyclinic",Hospital,0,St. Michael,2020-04-25,2025-12-27,"-59.01296, 12.99284",Follow-up 2023
+HF-005968,Christian-Bates Health Centre,Community Health Center,38,St. John,2024-10-20,2025-03-20,"12.73837, -59.23591",Follow-up 2023
+HF-005981,"Schaefer, Martin and Anderson Hospital",Community Health Center,372,St. Lucy,2020-05-27,2023-04-19,"-58.75635, 13.2347",Follow-up 2023
+HF-005991,Anderson Ltd Polyclinic,Polyclinic,47,St. James,2016-12-07,2024-06-08,"13825.0, 59135.0",Follow-up 2023
+HF-006011,"Whitney, Martinez and Miller",Hospital,0,St. Michael,2020-01-31,2024-12-02,"-58.84939, 13.19838",Good
+HF-006025,Rose Inc Clinic,Polyclinic,70,St. Andrew,2020-07-02,2022-08-20,"12.76918, -58.87404",Reinspection due
+HF-006064,Mckinney-Bradford Medical Center,Community Health Center,104,Christ Church,2017-07-02,2025-07-23,"-59.05428, 13.01136",Needs upgrade
+HF-006078,Simmons LLC,Polyclinic,10,St. George,2019-09-10,2022-12-07,"-58.98469, 13.15439",Reinspection due
+HF-006097,Mcintyre- Polyclinic,Community Health Center,0,Christ Church,2019-07-08,2024-02-07,"-59.26182, 13.14134",Needs upgrade
+HF-006111,Miller-Torres Health Centre,Community Health Center,157,St. Joseph,2018-02-07,2023-10-31,"-58.76112, 12.99195",Good
+HF-006114,Johnson-Ltd Polyclinic,Polyclinic,10,St. Andrew,2018-09-25,2020-01-09,"-58.85204, 12.8072",Follow-up 2023
+HF-006130,Vaughn Ltd Hospital,Community Health Center,499,St. Andrew,2018-06-29,2021-08-27,"131610.0, 58422.0",Needs upgrade
+HF-006134,Campbell LLC Hospital,Polyclinic,0,St. John,2023-08-10,2025-11-26,"-58.73256, 12.87502",Follow-up 2023
+HF-006136,Young-Smith Infirmary,Community Health Center,261,St. Lucy,2019-07-20,2022-04-14,"13.05518, -59.08662",Good
+HF-006141,Pennington-Ltd Polyclinic,Community Health Center,360,St. Michael,2018-03-04,2020-02-27,"-58.97385, 13.26792",Good
+HF-006153,Ford-Clark,Polyclinic,194,St. Peter,2018-07-20,2023-01-02,"12.91983, -59.04151",Good
+HF-006188,Reyes-Glover,Polyclinic,10,St. Andrew,2020-07-23,2025-06-20,"-58.70871, 13.28011",Good
+HF-006234,Nelson-Steele Polyclinic,Polyclinic,0,St. John,2020-11-14,2024-04-08,"-58.82268, 12.77786",Reinspection due
+HF-006237,"Hayden, Green and Ramirez",Community Health Center,0,St. Michael,2017-04-22,2021-01-23,"13.01817, -58.78235",Follow-up 2023
+HF-006246,Nguyen-Hamilton,Community Health Center,0,St. George,2020-03-06,2020-04-15,"-59.19349, 12.76758",Needs upgrade
+HF-006247,Bernard Ltd,Community Health Center,333,St. James,2018-03-13,2018-10-17,"-58.79759, 12.9259",Needs upgrade
+HF-006249,"Bowen,-Henderson-and-Frey Hospital",Hospital,481,St. Joseph,2020-05-02,2022-09-21,"13421.0, 591051.0",Good
+HF-006258,Harris-Brown Hospital,Hospital,81,St. Lucy,2021-05-21,2025-10-26,"13.18047, -59.16613",Needs upgrade
+HF-006274,Tran-Craig Infirmary,Community Health Center,155,St. Michael,2018-03-02,2025-03-23,"12.81198, -59.28179",Reinspection due
+HF-006279,Miller-Clark,Polyclinic,10,St. George,2019-07-14,2019-10-07,"-58.76415, 12.84195",Good
+HF-006282,Campbell-Inc Clinic,Polyclinic,87,St. Andrew,2018-09-30,2020-02-13,"-59.05498, 12.84024",Reinspection due
+HF-006330,Medina Inc Infirmary,Community Health Center,10,St. Andrew,2021-11-06,2023-10-02,"-58.94235, 12.70024",Needs upgrade
+HF-006334,Barry Inc,Hospital,213,St. Andrew,2017-12-29,2025-03-16,"-58.82999, 13.10524",Follow-up 2023
+HF-006351,Owen Medical Center,Community Health Center,208,St. Joseph,2017-02-04,2024-01-17,"-58.97933, 13.076",Reinspection due
+HF-006372,"Perry, Nelson and Long Infirmary",Community Health Center,433,St. John,2019-06-18,2020-02-24,"124724.0, 59459.0",Follow-up 2023
+HF-006373,Robinson-Robertson Clinic,Polyclinic,266,St. John,2018-02-10,2020-01-11,"-59.22095, 12.70254",Follow-up 2023
+HF-006381,Anderson-Salazar Clinic,Polyclinic,0,St. Peter,2021-02-14,2022-10-10,"-59.07624, 12.72334",Reinspection due
+HF-006394,White-Smith Medical Center,Community Health Center,220,St. Joseph,2016-03-30,2018-09-05,"-59.28187, 12.93895",Good
+HF-006400,Moore Infirmary,Community Health Center,448,St. James,2016-08-18,2024-10-25,"131418.0, 591044.0",Follow-up 2023
+HF-006434,Serrano-Carlson Polyclinic,Polyclinic,0,St. Michael,2021-06-13,2024-04-22,"13.00477, -59.01988",Needs upgrade
+HF-006435,"Ayers,-Gordon-and-Burnett Medical Center",Hospital,337,St. Joseph,2016-01-23,2021-12-16,"131711.0, 591758.0",Reinspection due
+HF-006441,Jones and Sons Hospital,Hospital,28,St. John,2020-12-05,2021-03-18,"13.14885, -59.12633",Reinspection due
+HF-006485,Bradley Inc,Hospital,10,St. Peter,2021-03-24,2023-06-29,"124225.0, 585336.0",Reinspection due
+HF-006487,Booth and Sons Medical Center,Polyclinic,376,St. John,2020-10-13,2024-04-12,"12.94064, -59.08629",Good
+HF-006489,Vaughn-Gray,Community Health Center,178,St. Peter,2017-08-04,2025-01-24,"13.16154, -58.79924",Good
+HF-006511,Wade,Community Health Center,211,St. Lucy,2016-04-17,2023-02-02,"-59.14938, 12.91942",Follow-up 2023
+HF-006529,Moyer-Flowers Infirmary,Community Health Center,363,St. Peter,2016-04-19,2024-05-19,"13.03605, -58.77765",Reinspection due
+HF-006594,Williams-Nicholson Medical Center,Hospital,475,St. Joseph,2018-06-09,2025-01-21,"-59.22375, 12.77259",Good
+HF-006637,Rubio-Baker,Polyclinic,0,St. George,2023-11-27,2025-12-28,"-59.05468, 13.08893",Good
+HF-006655,Parks Inc,Polyclinic,172,St. Joseph,2021-11-29,2025-05-19,"12.80285, -58.8444",Follow-up 2023
+HF-006673,Campbell-Zhang Clinic,Polyclinic,0,St. John,2017-08-08,2021-08-02,"1375.0, 591537.0",Follow-up 2023
+HF-006684,Booker LLC,Polyclinic,10,St. Michael,2016-07-30,2024-02-21,"12.86328, -58.89331",Needs upgrade
+HF-006686,Ibarra-,Community Health Center,0,St. James,2023-03-16,2023-06-04,"124630.0, 585756.0",Needs upgrade
+HF-006702,"Drake,-Jackson-and-Rodriguez Polyclinic",Hospital,7,St. Peter,2018-02-14,2025-04-14,"-59.25914, 13.25942",Follow-up 2023
+HF-006719,King-and-Sons,Polyclinic,208,St. James,2024-07-08,2024-10-30,"12.80985, -58.81781",Follow-up 2023
+HF-006784,"Higgins, Henderson and Vance",Hospital,0,St. Michael,2023-09-10,2024-04-21,"13.11188, -59.14696",Reinspection due
+HF-006793,Wilson-Scott Polyclinic,Community Health Center,150,St. Michael,2016-01-25,2020-03-02,"125159.0, 585140.0",Reinspection due
+HF-006804,"Davis, Lang and Banks Medical Center",Hospital,0,St. Lucy,2019-06-19,2021-06-26,"-59.1352, 12.98204",Needs upgrade
+HF-006840,"Wilson,-Armstrong-and-Nicholson Clinic",Community Health Center,198,St. James,2017-11-19,2023-06-18,"-58.74294, 13.17336",Reinspection due
+HF-006912,Jackson-Ltd Medical Center,Hospital,0,St. Michael,2018-09-27,2021-08-22,"-59.12004, 13.12277",Needs upgrade
+HF-006922,Huff-Petersen,Community Health Center,231,St. Joseph,2019-01-18,2022-06-12,"12469.0, 585541.0",Needs upgrade
+HF-006923,Dunn Ltd Hospital,Hospital,0,St. Michael,2018-09-27,2018-12-19,"12.85193, -58.70992",Reinspection due
+HF-006927,"Hodge, Burns and Knight Clinic",Community Health Center,10,Christ Church,2017-01-30,2019-01-25,"-58.87059, 12.90711",Good
+HF-006951,Collins Inc,Hospital,0,St. Peter,2023-04-17,2024-03-28,"-58.84001, 12.87196",Good
+HF-006964,Herring-Cabrera Clinic,Community Health Center,185,St. Lucy,2019-03-17,2021-12-01,"-59.0961, 13.07487",Follow-up 2023
+HF-006965,Hernandez-Richards Medical Center,Polyclinic,326,St. Joseph,2018-11-19,2019-07-13,"13.09424, -59.20653",Follow-up 2023
+HF-006972,Castillo and Sons Hospital,Hospital,0,St. James,2018-11-03,2023-08-10,"-58.70257, 12.84236",Needs upgrade
+HF-006978,White-Flores Hospital,Community Health Center,0,St. Joseph,2022-03-17,2022-09-04,"-58.82598, 12.9286",Reinspection due
+HF-007029,Glass LLC,Polyclinic,168,St. James,2018-08-04,2024-03-10,"13.18618, -58.73763",Good
+HF-007039,Schmidt LLC Health Centre,Polyclinic,10,St. Michael,2022-07-10,2023-07-06,"13.05239, -58.98384",Good
+HF-007052,Hill LLC Medical Center,Polyclinic,10,St. George,2021-05-14,2025-04-27,"-58.98847, 13.17476",Needs upgrade
+HF-007071,"English, Barber and Deleon Health Centre",Community Health Center,10,St. George,2016-12-13,2025-10-25,"12490.0, 58539.0",Needs upgrade
+HF-007103,"Silva, Little and Ferrell Hospital",Hospital,438,St. Peter,2022-07-04,2022-10-29,"124651.0, 585937.0",Needs upgrade
+HF-007120,Hernandez Inc Clin,Community Health Center,276,St. Lucy,2019-01-10,2025-07-11,"-59.09735, 13.08348",Needs upgrade
+HF-007121,Hernandez Inc Clinic,Community Health Center,276,St. Lucy,2019-01-10,2025-07-11,"-59.09735, 13.08348",Needs upgrade
+HF-007129,"Curtis,-Rose-and-Diaz Medical Center",Polyclinic,369,St. Peter,2020-06-20,2024-08-30,"-58.77911, 13.2362",Good
+HF-007134,"Stout, Davis and Riley",Community Health Center,10,St. John,2017-06-23,2022-01-23,"13516.0, 58563.0",Needs upgrade
+HF-007147,"Robertson,-Ball-and-Rojas",Community Health Center,305,Christ Church,2019-05-26,2022-10-18,"12.80294, -58.89941",Good
+HF-007153,Lawrence-Watts,Community Health Center,129,St. Peter,2017-03-14,2019-03-07,"13.16206, -59.01884",Reinspection due
+HF-007167,"Whitney, Williams and Holmes Polyclinic",Hospital,10,St. Andrew,2024-05-28,2025-03-31,"-59.08324, 12.94312",Needs upgrade
+HF-007200,"Garcia, Alvarez and Wright",Hospital,0,Christ Church,2018-02-11,2024-12-09,"-58.72997, 13.15781",Follow-up 2023
+HF-007208,"Freeman, Roman and Hall",Community Health Center,72,St. John,2019-07-12,2024-06-10,"12444.0, 585141.0",Follow-up 2023
+HF-007233,Edwards-Clay Hospital,Community Health Center,0,St. Peter,2016-12-17,2025-11-27,"1349.0, 584842.0",Good
+HF-007256,Christensen-Alvarado Hospital,Community Health Center,396,St. Lucy,2018-01-10,2019-05-14,"-58.90262, 12.74527",Follow-up 2023
+HF-007268,Williams Group Hospital,Community Health Center,422,St. Joseph,2019-08-05,2025-09-20,"-59.20678, 12.8461",Follow-up 2023
+HF-007275,"Williams, Sanders and Turner Health Centre",Community Health Center,310,St. John,2019-07-31,2024-09-25,"-58.98132, 12.88486",Follow-up 2023
+HF-007277,Garcia LLC Hospital,Community Health Center,0,St. Michael,2018-06-09,2025-09-30,"13117.0, 59651.0",Good
+HF-007282,"Erickson,-King-and-Mack Hospital",Community Health Center,0,St. George,2020-07-25,2021-06-12,"125216.0, 591029.0",Follow-up 2023
+HF-007341,"Nelson, Tucker and Estes",Community Health Center,127,St. John,2020-07-19,2024-08-30,"-59.29983, 12.91303",Reinspection due
+HF-007353,Collins-Barrett Clinic,Polyclinic,468,St. John,2018-04-15,2024-12-23,"-59.23933, 12.94877",Needs upgrade
+HF-007359,"Owen, Washington and Hayes",Community Health Center,68,St. Peter,2022-08-25,2023-11-30,"-58.77166, 12.78716",Reinspection due
+HF-007374,Robinson-Barton Polyclinic,Community Health Center,238,St. Peter,2019-12-16,2021-07-23,"13420.0, 59233.0",Needs upgrade
+HF-007379,Andrews-Harrison Health Centre,Polyclinic,354,St. Michael,2018-03-31,2022-01-18,"13.20364, -59.15607",Reinspection due
+HF-007407,Wagner Group Polyclinic,Community Health Center,10,St. Joseph,2019-03-29,2025-09-07,"124619.0, 585913.0",Needs upgrade
+HF-007414,Francis LLC Health Centre,Polyclinic,0,St. James,2020-10-13,2021-03-13,"-58.85722, 12.98354",Good
+HF-007415,Rice-Barber,Polyclinic,0,St. John,2020-07-04,2021-10-31,"-59.0506, 12.78237",Reinspection due
+HF-007424,Ruiz,Polyclinic,10,St. Lucy,2018-04-24,2024-06-27,"124851.0, 584831.0",Follow-up 2023
+HF-007436,Perry-Inc,Community Health Center,0,St. Andrew,2020-03-12,2023-07-27,"1395.0, 585844.0",Reinspection due
+HF-007441,"Williams, Crane and Kennedy Hospital",Polyclinic,136,St. John,2016-12-11,2023-01-07,"13.14025, -58.89907",Reinspection due
+HF-007472,Lopez LLC Clinic,Community Health Center,10,St. George,2016-10-15,2025-01-08,"12.77267, -59.14487",Needs upgrade
+HF-007483,Lucero and Sons Hospital,Community Health Center,172,St. Lucy,2018-07-26,2021-07-08,"-59.24356, 12.71821",Follow-up 2023
+HF-007485,"Ramirez, Johnston and Lamb Hospital",Community Health Center,0,St. James,2024-06-09,2024-06-16,"-59.14673, 12.97424",Reinspection due
+HF-007523,"Davis,-Smith-and-Curtis",Community Health Center,19,St. Peter,2017-06-07,2019-04-04,"-59.22498, 13.07362",Reinspection due
+HF-007543,"Booth,-Murray-and-Valenzuela Clinic",Hospital,0,St. Andrew,2018-04-28,2019-05-26,"-59.22215, 12.90118",Good
+HF-007544,"Booth,-Murray-and-Valenzuela Clin",Hospital,0,St. Andrew,2018-04-28,2019-05-26,"-59.22215, 12.90118",Good
+HF-007547,Herring,Community Health Center,295,St. Joseph,2020-04-13,2022-06-30,"12.83706, -59.05827",Follow-up 2023
+HF-007577,"Gutierrez,-Anderson-and-Galloway",Polyclinic,0,St. Andrew,2025-06-05,2025-06-19,"13.10665, -59.17272",Reinspection due
+HF-007583,Glover Group Medical Center,Community Health Center,186,St. Michael,2018-10-31,2022-10-21,"13.136, -58.75304",Follow-up 2023
+HF-007589,"Gilmore,-Alexander-and-Henry Hospital",Polyclinic,0,St. Lucy,2018-07-19,2019-11-09,"12.87075, -59.07331",Good
+HF-007596,Hernandez-Patterson Medical Center,Community Health Center,318,St. Andrew,2022-04-03,2024-05-18,"13636.0, 59642.0",Reinspection due
+HF-007603,"Brooks, Rodriguez and White Polyclinic",Community Health Center,0,St. George,2024-09-07,2025-10-09,"-58.86309, 13.09579",Needs upgrade
+HF-007616,"Ross, Lopez and Walker Hospital",Polyclinic,10,St. John,2016-06-28,2022-10-19,"13811.0, 58440.0",Needs upgrade
+HF-007618,"Jones, Stout and Lewis",Polyclinic,181,St. Andrew,2018-10-15,2025-09-23,"13.23738, -59.16356",Good
+HF-007624,Sanchez-Ramos,Hospital,0,St. John,2023-08-26,2024-01-10,"13316.0, 58526.0",Needs upgrade
+HF-007649,Stewart-Bauer Medical Center,Polyclinic,133,St. Peter,2018-12-29,2025-12-07,"-58.78085, 13.24048",Follow-up 2023
+HF-007677,"Alexander, Dickerson and Mcneil Hospital",Community Health Center,375,St. Joseph,2016-04-15,2018-11-27,"-59.25233, 12.82967",Follow-up 2023
+HF-007678,"Miller, Burgess and Colon Polyclinic",Polyclinic,413,St. John,2021-10-17,2024-05-28,"-58.95554, 12.75604",Needs upgrade
+HF-007684,Little LLC Clinic,Hospital,494,Christ Church,2016-05-14,2021-12-31,"-59.13623, 13.23115",Good
+HF-007708,Stephens-Lane Clinic,Polyclinic,108,St. Lucy,2024-10-24,2025-08-26,"131231.0, 585235.0",Reinspection due
+HF-007740,Rios Inc Clinic,Community Health Center,10,St. George,2022-03-03,2022-07-12,"13651.0, 585354.0",Follow-up 2023
+HF-007744,Turner-,Community Health Center,377,St. George,2021-04-01,2025-11-26,"-58.97563, 12.99077",Good
+HF-007802,"Avery,-Mendoza-and-Cook",Polyclinic,0,St. George,2021-06-15,2022-02-17,"-58.91246, 12.82759",Follow-up 2023
+HF-007803,Williams and Sons Hospital,Polyclinic,0,St. Joseph,2022-11-12,2025-01-11,"-59.29602, 12.83613",Reinspection due
+HF-007837,"Guzman, Rivera and Livingston Polyclinic",Hospital,0,Christ Church,2023-01-13,2025-05-21,"13657.0, 585028.0",Follow-up 2023
+HF-007860,Stewart-,Polyclinic,384,St. Lucy,2022-05-30,2023-07-04,"-59.0745, 12.71906",Reinspection due
+HF-007874,Hughes-Gonzalez Health Centre,Polyclinic,167,St. George,2021-02-03,2021-11-15,"12.97453, -58.7506",Needs upgrade
+HF-007882,"Walter, Valdez and Boyle",Community Health Center,25,St. Joseph,2021-03-17,2022-01-30,"13.01806, -59.14307",Good
+HF-007897,Schmidt-Lee,Polyclinic,448,Christ Church,2022-05-08,2025-04-25,"-59.27769, 12.91599",Reinspection due
+HF-007913,Weaver-Mclaughlin Hospital,Hospital,0,Christ Church,2021-08-18,2024-07-06,"125413.0, 591533.0",Needs upgrade
+HF-007918,Boyd-Campbell,Hospital,10,St. Joseph,2018-04-25,2019-12-13,"-59.26681, 13.12291",Good
+HF-007928,Stokes- Hospital,Community Health Center,448,St. Michael,2022-09-06,2024-10-27,"-59.0495, 12.98765",Good
+HF-007932,Kelly Inc,Community Health Center,280,St. George,2021-09-07,2025-10-17,"124919.0, 584924.0",Follow-up 2023
+HF-007934,"Rogers, Lucas and Doyle Polyclinic",Polyclinic,0,St. Andrew,2019-12-11,2024-12-08,"-59.1166, 13.12263",Needs upgrade
+HF-007954,"Obrien,-Mccarthy-and-Wu Health Centre",Community Health Center,224,St. John,2020-06-17,2022-04-29,"124635.0, 59523.0",Needs upgrade
+HF-007961,"Kelly, Castillo and Armstrong",Community Health Center,0,St. James,2018-08-27,2023-11-06,"-59.24706, 12.76409",Follow-up 2023
+HF-007971,"Johnson, Weber and Whitehead Medical Center",Hospital,324,Christ Church,2022-07-30,2025-12-16,"12.9112, -58.85838",Needs upgrade
+HF-007980,Mitchell-Group,Community Health Center,0,St. Lucy,2024-08-24,2025-05-07,"-59.0702, 13.17882",Good
+HF-008004,Small and Sons Infirmary,Hospital,10,St. Michael,2016-02-14,2022-07-19,"131540.0, 59915.0",Needs upgrade
+HF-008023,Ochoa LLC Infirmary,Polyclinic,351,St. Andrew,2017-03-07,2025-05-24,"-58.75961, 12.85759",Follow-up 2023
+HF-008032,Hernandez Inc,Community Health Center,0,St. Andrew,2018-03-16,2021-12-25,"-58.88554, 13.23974",Reinspection due
+HF-008050,"Raymond, Mitchell and Bonilla",Polyclinic,0,St. George,2019-02-19,2019-04-15,"12.86157, -58.8736",Reinspection due
+HF-008058,Burton-Mcneil Clinic,Hospital,388,St. Joseph,2023-01-10,2023-01-23,"12.73416, -59.09594",Follow-up 2023
+HF-008059,Burton-Mcneil Clin,Hospital,388,St. Joseph,2023-01-10,2023-01-23,"12.73416, -59.09594",Follow-up 2023
+HF-008099,"Jones, Burgess and Maynard Health Centre",Community Health Center,387,St. Michael,2016-03-15,2025-06-28,"124850.0, 59330.0",Follow-up 2023
+HF-008100,Summers Inc,Polyclinic,0,St. Michael,2021-08-31,2023-09-25,"-59.00565, 12.91012",Needs upgrade
+HF-008103,Andersen Inc,Community Health Center,80,St. Joseph,2017-11-08,2019-08-04,"-59.26325, 13.18199",Needs upgrade
+HF-008122,Parker Clinic,Hospital,230,St. Michael,2018-11-17,2019-08-28,"-59.28808, 13.18056",Follow-up 2023
+HF-008142,"Allison, Bolton and Hubbard Medical Center",Community Health Center,229,St. Michael,2024-11-26,2025-01-31,"131752.0, 585151.0",Reinspection due
+HF-008148,"Downs,-Carlson-and-Baldwin",Polyclinic,384,St. Joseph,2018-09-05,2025-02-25,"-59.0973, 12.8201",Reinspection due
+HF-008180,Adams-Spencer,Hospital,0,St. Michael,2016-04-05,2018-05-23,"131135.0, 591719.0",Good
+HF-008208,Taylor Inc,Community Health Center,0,St. Andrew,2022-07-28,2023-05-16,"12.88287, -58.9873",Reinspection due
+HF-008244,"Woods, Garner and Hall Hospital",Community Health Center,0,St. John,2017-12-08,2022-01-05,"-59.05501, 12.75366",Good
+HF-008252,Cox-Group Health Centre,Polyclinic,469,St. Lucy,2021-12-17,2023-10-22,"13.13856, -58.75621",Reinspection due
+HF-008306,"Johnson, Mitchell and Suarez Health Centre",Community Health Center,10,St. Joseph,2020-11-04,2023-04-22,"13.23944, -58.93133",Follow-up 2023
+HF-008316,Ballard-Patterson,Community Health Center,10,St. Peter,2016-02-22,2024-03-15,"12.80461, -59.24372",Good
+HF-008318,Wright-Baker Hospital,Polyclinic,69,St. Lucy,2022-07-22,2024-02-24,"13.19967, -59.07709",Needs upgrade
+HF-008328,Patterson Ltd Hospital,Community Health Center,428,St. Joseph,2016-10-18,2019-08-08,"-58.76631, 13.17091",Good
+HF-008368,"Adams, Ramos and Castillo",Hospital,10,St. George,2016-03-31,2022-10-22,"-58.98249, 12.95072",Needs upgrade
+HF-008414,Molina Clinic,Hospital,250,St. Peter,2017-08-19,2019-03-24,"12.76001, -58.90945",Good
+HF-008424,"Kelley, Dyer and Rivera Hospital",Community Health Center,6,St. James,2021-10-26,2024-07-14,"-58.70169, 13.05111",Good
+HF-008485,Hahn Inc Hospital,Polyclinic,130,St. Lucy,2017-06-27,2020-10-26,"-58.91121, 12.78715",Follow-up 2023
+HF-008490,Williams Ltd,Community Health Center,10,St. Joseph,2018-12-24,2024-08-16,"125842.0, 585556.0",Reinspection due
+HF-008493,"Brown, Reynolds and Mccarty Health Centre",Community Health Center,0,St. John,2018-10-21,2024-01-18,"13.20191, -59.18296",Good
+HF-008521,Gutierrez and Sons,Community Health Center,0,St. John,2020-05-08,2024-09-16,"13.26371, -58.74287",Reinspection due
+HF-008527,Graham-Rodriguez,Community Health Center,10,St. Michael,2018-11-06,2018-12-20,"13412.0, 585426.0",Reinspection due
+HF-008582,"Stevens, Kim and Meyers Medical Center",Hospital,10,St. Peter,2019-04-02,2025-02-06,"12.72097, -58.76254",Reinspection due
+HF-008611,Jackson-Clark Hospital,Community Health Center,231,St. Peter,2019-01-29,2021-01-12,"125041.0, 584922.0",Needs upgrade
+HF-008622,"Diaz, Campbell and Horton Hospital",Community Health Center,3,St. Joseph,2018-09-08,2023-09-26,"13.14466, -58.86057",Reinspection due
+HF-008627,Obrien LLC Hospital,Polyclinic,0,St. Joseph,2018-03-27,2025-08-08,"-58.79381, 12.9699",Good
+HF-008633,"Wolfe, Walker and Edwards Infirmary",Community Health Center,230,St. James,2021-08-20,2022-06-22,"13.23586, -59.13838",Needs upgrade
+HF-008636,Montgomery Group,Community Health Center,0,St. Lucy,2018-09-28,2025-01-22,"-58.90111, 12.81995",Needs upgrade
+HF-008678,"Salas,-Maxwell-and-Rivera Medical Center",Community Health Center,0,St. George,2018-08-20,2024-05-07,"-59.00631, 13.05767",Good
+HF-008687,"Morales,-Estrada-and-Moreno Clinic",Hospital,164,St. James,2022-04-23,2025-12-31,"-59.15623, 13.20332",Reinspection due
+HF-008694,Brown Medical Center,Hospital,0,Christ Church,2020-09-02,2021-03-04,"-59.20609, 12.73832",Follow-up 2023
+HF-008699,Walsh Ltd Hospital,Hospital,8,St. John,2017-04-25,2024-02-27,"13220.0, 584248.0",Reinspection due
+HF-008705,Wood and Sons Clinic,Polyclinic,10,St. George,2022-08-08,2025-10-17,"-59.01634, 12.93324",Follow-up 2023
+HF-008706,Smith-Harris Hospital,Hospital,233,St. James,2016-01-17,2018-05-06,"-58.99413, 13.13749",Needs upgrade
+HF-008712,"Smith, Carpenter and Nichols Clinic",Polyclinic,0,St. Peter,2020-10-13,2024-01-23,"13.24411, -59.11724",Follow-up 2023
+HF-008735,Johnson-Sosa Hospital,Community Health Center,422,St. Lucy,2019-12-22,2021-05-13,"13024.0, 59171.0",Needs upgrade
+HF-008757,Dominguez-LLC Infirmary,Community Health Center,0,St. Lucy,2018-11-09,2020-09-04,"12.83831, -58.71468",Follow-up 2023
+HF-008764,Santos-Stanton Infirmary,Community Health Center,0,St. Peter,2016-07-19,2018-02-08,"-58.89402, 13.07969",Follow-up 2023
+HF-008788,Rollins-Terry Infirmary,Community Health Center,0,St. Lucy,2021-02-26,2022-02-13,"13215.0, 591541.0",Follow-up 2023
+HF-008798,Davidson-Ltd Medical Center,Hospital,44,St. Lucy,2022-07-24,2023-12-05,"12497.0, 59417.0",Needs upgrade
+HF-008817,"Gregory, Smith and Wilson Hospital",Polyclinic,10,St. Lucy,2017-05-06,2023-10-22,"-59.04702, 13.22685",Needs upgrade
+HF-008820,Diaz-Blanchard,Polyclinic,0,St. George,2018-06-16,2023-02-02,"124218.0, 591719.0",Reinspection due
+HF-008864,Young-Taylor Hospital,Community Health Center,68,St. George,2021-05-02,2025-12-26,"13936.0, 585135.0",Good
+HF-008870,Ware LLC Infirmary,Hospital,0,St. James,2021-04-17,2024-04-06,"13159.0, 584838.0",Needs upgrade
+HF-008903,"Ward, Mccarty and Rich",Hospital,270,St. Andrew,2024-11-01,2025-05-26,"131426.0, 59844.0",Good
+HF-008934,Vaughan-Velasquez,Community Health Center,42,St. Michael,2024-06-11,2025-03-24,"125614.0, 58591.0",Needs upgrade
+HF-008936,"Moreno, Huang and Murphy",Hospital,335,St. John,2021-04-27,2022-02-01,"-59.09079, 12.73382",Follow-up 2023
+HF-008967,"Harper, Lopez and Molina Hospital",Community Health Center,455,St. John,2017-04-02,2025-08-08,"12.91282, -59.16329",Reinspection due
+HF-008982,Jenkins Infirmary,Polyclinic,303,St. Michael,2017-12-31,2019-05-12,"-59.29324, 12.77654",Follow-up 2023
+HF-008988,Brewer-LLC,Polyclinic,459,St. Peter,2017-01-20,2019-01-14,"-58.79148, 12.88857",Follow-up 2023
+HF-009014,Hunter LLC Polyclinic,Hospital,22,St. John,2018-04-28,2018-12-29,"12.87698, -58.88072",Follow-up 2023
+HF-009030,Nolan Inc Polyclinic,Hospital,6,St. Lucy,2020-09-05,2022-08-14,"12553.0, 584851.0",Reinspection due
+HF-009038,Macdonald-Velez Infirmary,Community Health Center,175,St. John,2016-09-07,2019-12-19,"-59.17653, 12.93753",Follow-up 2023
+HF-009045,"Spencer, Jones and Jones Clinic",Polyclinic,0,St. Lucy,2025-05-09,2025-11-30,"131012.0, 58585.0",Needs upgrade
+HF-009046,"Spencer, Jones and Jones Clin",Polyclinic,0,St. Lucy,2025-05-09,2025-11-30,"131012.0, 58585.0",Needs upgrade
+HF-009065,"Burke, Valdez and Casey Health Centre",Community Health Center,0,St. Michael,2016-08-13,2025-08-18,"-58.9381, 12.78103",Reinspection due
+HF-009100,"Burnett, Johnson and Salinas Infirmary",Polyclinic,0,St. Joseph,2021-03-09,2022-01-12,"-58.9835, 12.76198",Good
+HF-009119,Schmidt-Reilly Polyclinic,Community Health Center,0,Christ Church,2017-04-26,2022-05-07,"-58.98563, 12.84863",Follow-up 2023
+HF-009141,Hill-Terrell,Polyclinic,10,St. John,2019-05-17,2024-12-02,"-58.8343, 12.76637",Follow-up 2023
+HF-009178,"Clements, Cruz and Miller Hospital",Hospital,0,St. Joseph,2023-07-14,2024-09-02,"-59.01505, 12.92235",Follow-up 2023
+HF-009181,Douglas-Bryant Polyclinic,Polyclinic,427,St. James,2019-03-31,2019-07-28,"-58.8113, 12.75811",Reinspection due
+HF-009191,"Hudson, Sawyer and Moss Infirmary",Community Health Center,107,St. James,2023-08-22,2024-11-08,"-59.25627, 12.85436",Follow-up 2023
+HF-009205,Francis-Torres,Polyclinic,27,St. Peter,2023-07-17,2024-07-04,"13133.0, 585052.0",Follow-up 2023
+HF-009215,Evans-White,Community Health Center,0,St. John,2016-02-22,2021-02-27,"13846.0, 59130.0",Reinspection due
+HF-009254,"Dunn, Solis and Paul",Community Health Center,248,St. John,2018-06-28,2021-12-04,"-58.71713, 13.03313",Reinspection due
+HF-009259,"Salas, Johnson and Compton Hospital",Polyclinic,292,St. John,2018-01-14,2020-09-15,"-58.76183, 13.29977",Reinspection due
+HF-009269,Edwards-Spence Clinic,Community Health Center,406,St. Peter,2020-07-15,2022-12-26,"125223.0, 585745.0",Reinspection due
+HF-009296,Barton Group Infirmary,Community Health Center,0,St. Peter,2018-08-10,2022-10-14,"1378.0, 5958.0",Good
+HF-009311,Johnson-and-Sons Infirmary,Polyclinic,357,St. George,2017-04-21,2024-03-11,"1309.0, 59642.0",Reinspection due
+HF-009336,Harris Medical Center,Polyclinic,0,St. Joseph,2019-05-05,2021-12-12,"-58.98196, 13.10878",Needs upgrade
+HF-009351,Gonzalez-Jacobson,Polyclinic,100,St. James,2018-02-18,2021-10-26,"-59.10516, 12.87148",Reinspection due
+HF-009355,Ball Ltd Medical Center,Community Health Center,0,St. Lucy,2017-10-17,2023-11-28,"-58.99042, 13.05101",Follow-up 2023
+HF-009362,"Williams, Braun and Schmidt Health Centre",Community Health Center,255,St. John,2016-09-27,2018-03-27,"12425.0, 584949.0",Good
+HF-009369,"Ramirez, Schmidt and Greene",Community Health Center,384,St. James,2016-08-19,2023-05-18,"-59.16816, 12.79545",Good
+HF-009372,Arias-and-Sons,Community Health Center,35,Christ Church,2020-08-14,2024-12-22,"13544.0, 585921.0",Follow-up 2023
+HF-009383,"Wilson, Young and Brown Medical Center",Hospital,0,St. George,2022-09-26,2025-01-07,"12513.0, 58599.0",Needs upgrade
+HF-009400,Hoffman-Cook,Hospital,458,St. Peter,2022-05-23,2022-06-06,"13.17535, -58.88142",Needs upgrade
+HF-009401,Payne-Brown Hospital,Polyclinic,488,St. Peter,2020-12-28,2022-06-13,"-58.77827, 13.26056",Good
+HF-009447,Flores Inc Medical Center,Community Health Center,43,St. Joseph,2021-04-25,2024-02-10,"125446.0, 585613.0",Good
+HF-009501,"Dillon, Perez and Miller Hospital",Community Health Center,487,St. Andrew,2016-05-29,2019-03-15,"-58.93623, 12.99035",Follow-up 2023
+HF-009523,Young and Sons,Polyclinic,414,St. George,2018-06-27,2024-02-26,"13.06427, -59.08166",Follow-up 2023
+HF-009541,Johnson-Lewis,Community Health Center,0,St. Michael,2018-08-27,2019-02-12,"131510.0, 584731.0",Follow-up 2023
+HF-009546,"Lamb, Dyer and Rivera Medical Center",Polyclinic,217,St. Michael,2018-11-16,2020-02-12,"12.9922, -58.82926",Needs upgrade
+HF-009547,Spence-Campbell,Polyclinic,218,St. Andrew,2016-10-28,2018-06-09,"13234.0, 585023.0",Reinspection due
+HF-009564,Nelson-Singleton,Polyclinic,446,St. John,2022-09-23,2022-11-22,"-58.77035, 13.25521",Reinspection due
+HF-009568,Williams and Sons,Polyclinic,454,St. Lucy,2022-03-18,2023-07-21,"124923.0, 585432.0",Needs upgrade
+HF-009569,"Figueroa,-Dean-and-Hunter",Hospital,10,St. John,2022-08-10,2023-04-09,"-59.07064, 12.83172",Follow-up 2023
+HF-009578,Davis LLC Health Centre,Hospital,152,St. James,2022-02-28,2022-08-01,"-58.95492, 12.74262",Good
+HF-009605,"Hunt, Morris and Mills",Hospital,0,St. Michael,2020-07-22,2022-12-04,"-58.77665, 12.95399",Needs upgrade
+HF-009655,"Leblanc, Larsen and Baker Hospital",Community Health Center,0,St. Lucy,2022-06-14,2025-10-11,"-59.27698, 13.25414",Needs upgrade
+HF-009659,Shea and Sons,Polyclinic,78,St. Andrew,2021-02-28,2022-06-02,"131320.0, 59931.0",Follow-up 2023
+HF-009687,Santana-Campbell,Community Health Center,0,St. Peter,2021-11-19,2023-07-13,"-58.7768, 13.1953",Good
+HF-009702,"Burnett, Coleman and Tapia Infirmary",Hospital,0,St. Andrew,2019-02-17,2020-09-06,"-59.13245, 12.99021",Follow-up 2023
+HF-009724,"Cruz, Santos and Hamilton Medical Center",Community Health Center,0,St. John,2022-01-26,2023-03-02,"-59.05145, 12.76291",Follow-up 2023
+HF-009732,"Cochran, Williams and Medina Medical Center",Community Health Center,351,St. Andrew,2019-05-21,2025-04-14,"124830.0, 584736.0",Follow-up 2023
+HF-009735,Gonzalez-Christian Hospital,Polyclinic,374,Christ Church,2020-05-23,2023-11-14,"-58.90095, 12.87374",Follow-up 2023
+HF-009782,Ferguson-Barber Polyclinic,Hospital,0,St. Lucy,2018-01-23,2021-05-26,"1335.0, 585236.0",Follow-up 2023
+HF-009798,"Robinson,-Wright-and-Watts Clinic",Community Health Center,31,Christ Church,2022-04-09,2023-04-01,"-58.91816, 12.81647",Needs upgrade
+HF-009814,Wood-Pearson,Polyclinic,10,St. James,2016-08-21,2021-11-12,"13.21252, -58.78768",Reinspection due
+HF-009895,"Poole, Colon and Bird Infirmary",Community Health Center,362,St. John,2019-03-12,2025-10-20,"13230.0, 58588.0",Good
+HF-009897,Hernandez-Harris,Community Health Center,402,St. Peter,2020-09-16,2025-07-25,"13.1741, -59.0118",Follow-up 2023
+HF-009905,Greer-Ltd Infirmary,Community Health Center,175,St. Joseph,2020-06-28,2025-09-11,"12498.0, 584642.0",Follow-up 2023
+HF-009934,Carrillo-Leonard Hospital,Hospital,10,St. Peter,2024-05-16,2025-04-17,"-59.01788, 12.94123",Needs upgrade
+HF-009936,Duarte-Moss,Hospital,200,St. Andrew,2018-12-09,2020-07-12,"-58.84516, 13.02314",Reinspection due
+HF-009949,Stark Ltd Hospital,Community Health Center,177,St. Andrew,2021-04-18,2024-07-08,"13343.0, 585111.0",Reinspection due
+HF-010003,Williams Inc Clinic,Community Health Center,0,St. Michael,2019-02-19,2021-07-01,"125748.0, 58574.0",Good
+HF-010005,"Nelson, Walters and Olson Hospital",Community Health Center,237,St. James,2022-05-10,2024-03-27,"13.16904, -58.75605",Reinspection due
+HF-010013,"Lopez, Dawson and Stewart Health Centre",Community Health Center,10,St. Joseph,2025-01-16,2025-10-13,"12557.0, 585718.0",Needs upgrade
+HF-010022,"Huff, Rodriguez and Williams Health Centre",Polyclinic,35,St. Peter,2017-09-26,2022-12-03,"125826.0, 59921.0",Good
+HF-010056,Hernandez-Nguyen,Community Health Center,0,St. John,2021-12-22,2025-08-10,"124453.0, 591741.0",Good
+HF-010100,King Inc,Hospital,0,St. James,2018-05-20,2020-05-19,"-59.19688, 13.08124",Needs upgrade
+HF-010103,"Chapman, Hall and Gardner Infirmary",Community Health Center,105,St. Michael,2022-01-17,2022-04-11,"-59.17603, 12.88999",Needs upgrade
+HF-010122,"Moore, Hernandez and Thomas",Community Health Center,308,St. George,2019-04-02,2021-04-18,"124554.0, 59014.0",Follow-up 2023
+HF-010138,Brown LLC,Community Health Center,223,St. Andrew,2017-01-09,2023-11-11,"-59.08064, 13.11308",Follow-up 2023
+HF-010141,Alvarez-Brown,Community Health Center,301,St. James,2019-06-13,2025-03-04,"13.04233, -58.86532",Reinspection due

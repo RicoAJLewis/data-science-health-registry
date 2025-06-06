@@ -27,7 +27,7 @@ To run the cleaning and profiling process:
    7.	python –version #to confirm the version
    8.	pip install -r requirements.txt
 
-3. ## open the notebook On our IDE (mine was VS code)
+3. ## open the notebook On your IDE (mine was VS code)
    Navigate to notebooks/health_registry_eda_clean.ipynb.
 
    Go to Kernel > Restart & Run All.
